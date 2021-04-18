@@ -1,0 +1,13 @@
+header{
+    color: white
+}
+
+body{
+    background-image: url(../Multimedia/imagenes/curso-algoritmia-y-complejidad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main{
+    color: white
+}
